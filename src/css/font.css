@@ -1,16 +1,26 @@
-/* @font-face {
-  font-family: 'icomoon';
-  src:  url('../fonts/icomoon.eot?hr8hje');
-  src:  url('../fonts/icomoon.eot?hr8hje#iefix') format('embedded-opentype'),
-    url('../fonts/icomoon.ttf?hr8hje') format('truetype'),
-    url('../fonts/icomoon.woff?hr8hje') format('woff'),
-    url('../fonts/icomoon.svg?hr8hje#icomoon') format('svg');
-  font-weight: normal;
+@font-face {
+  font-family: 'Museo Sasn Cyrl 300', sans-serif;
+  src: url('museosanscyrl-300.woff') format('woff'),
+  url('museosanscyrl-300.woff') format('woff2');
+  font-weight: 300;
   font-style: normal;
-  font-display: block;
-}
+  }
+@font-face {
+  font-family: 'Museo Sasn Cyrl 500', sans-serif;
+  src: url('museosanscyrl-500.woff') format('woff'),
+  url('museosanscyrl-500.woff') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  }
+@font-face {
+  font-family: 'Museo Sasn Cyrl 700', sans-serif;
+  src: url('museosanscyrl-700.woff') format('woff'),
+  url('museosanscyrl-700.woff') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  }
 
-[class^="icon-"], [class*=" icon-"] {
+/* [class^="icon-"], [class*=" icon-"] {
 
   font-family: 'icomoon' !important;
   font-style: normal;
@@ -36,4 +46,4 @@
 .icon-facebook-f-brands:before {
   content: "\e903";
 }
- */
+  */
