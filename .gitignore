@@ -7,7 +7,7 @@
 /coverage
 
 # graphic files
-/psd
+/src/sass
 
 # production
 /build
